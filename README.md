@@ -13,7 +13,7 @@ products using modern frontend and full-stack technologies.
 - 🟢 Node.js & Express
 - 🗄️ MongoDB & PostgreSQL
 - 🤖 Generative AI & LLM applications
-- ☁️ AWS & cloud technologies
+- ☁️ Handle AWS & cloud technologies
 - 🎨 Tailwind CSS, Material UI & responsive UI
 
 ## 🛠️ Tech Stack
